@@ -1,0 +1,129 @@
+body {
+	margin: 80px;
+	font-family: "Roboto", sans-serif;
+}
+
+header {
+	position: fixed;
+	top: 0;
+  	left: 0;
+  	right: 0;
+/*	height: 30px;*/
+	padding: 10px;
+	background-color: #EEEEEE;
+	border-bottom: 1px solid #DDDDDD;
+/*	width: 100%;*/
+}
+.rl-logo {
+  display: inline-block;
+  font-weight: normal;
+}
+
+.rl-logo h1 {font-weight: normal;
+margin: 0;
+padding: 0;
+font-size: 18px;
+}
+.top-nav {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: block;
+}
+
+.nav-link {
+  font-size: 18px;
+  padding: 0 6px;
+  right:0px;
+  text-decoration: none;
+}
+
+/*form section*/
+
+
+.search-section input {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 30px;
+  height: 30px;
+  border: 1px solid #DDDDDD;
+  border-radius: 3px;
+  padding: 0 5px 0 8px;
+  width: 400px;
+}
+
+.search-section button {
+  font-size: 17px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid #DDDDDD;
+  border-radius: 3px;
+}
+
+.search-button {
+  vertical-align: bottom;
+}
+
+.magnifying-glass-icon {
+  height: 24px;
+}
+
+.pages {
+  display: inline-block;
+  margin-bottom: 30px;
+    border: 1px solid #DDDDDD;
+  border-radius: 3px;
+    padding: 8px 15px;
+}
+
+.left-button {
+/*  border-right: 1px solid #DDDDDD;*/
+    padding: 8px 15px;
+}
+
+.right-button {
+/*  border-left: 1px solid #DDDDDD;*/
+    padding: 8px 15px;
+}
+
+
+.pages-display {
+  font-size: 16px;
+  padding: 0 30px;
+  padding: 8px 25px;
+  border-left: 1px solid #DDDDDD;
+  border-right: 1px solid #DDDDDD;
+}
+
+.listings {
+  padding: 0;
+}
+
+.listing {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+.listing-date ,
+.listing-location {
+  color: #999;
+}
+
+.listing-title {
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
